@@ -22,3 +22,13 @@ but useful for people who use screen readers */
 .toggle-all-label {
     pointer-events: none;
 }
+
+.todoapp .subtitle {
+    position: absolute;
+    top: -40px;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    font-size: 16px;
+    color: #777;
+}
